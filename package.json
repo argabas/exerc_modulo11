@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/argabas/exerc_modulo11#readme",
   "dependencies": {
-    "cypress": "^9.5.3"
+    "cypress": "^9.5.3",
+    "faker-br": "^0.4.1"
   }
 }
